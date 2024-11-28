@@ -1,0 +1,57 @@
+﻿Task_Name_CN,Task_Name_EN,Meta-Topic ID,Meta-Topic_EN,Sub-task ID
+故事书写作,Story Writing,1,Storybook Creation,1
+科幻小说创作,Fiction Writing,1,Storybook Creation,2
+旅游攻略指南,Travel Guide Generation,2,Multimodal Report Generation,1
+博物馆导览手册,Museum Guide Book Generation,2,Multimodal Report Generation,2
+动态传记生成,Dynamic Biography Generation,2,Dynamic biography generation,3
+故事书续写,Storybook Completion,3,Multimodal Content Completion,1
+图文报告续写,Multimodal Report Completion,3,Multimodal Content Completion,2
+排版文档生成,Document with Layout Generation,4,Multimodal Layout Generation,1
+ppt及备注生成,Slide with Note Generation,4,Multimodal Layout Generation,2
+web gui navigation,Website GUI Navigation,5,GUI Navigation,1
+app内部navigation,In-APP GUI Navigation,5,GUI Navigation,2
+跨app navigation,Cross-APP GUI Navigation,5,GUI Navigation,3
+操作系统gui navigation,OS GUI Navigation,5,GUI Navigation,4
+人像P图,Interactive Portrait Image Editing,6,Interactive Image Editing,1
+风景图P图,Interactive Landscape Image Editing,6,Interactive Image Editing,2
+室内设计,Interior Design,7,Interactive Visual Design,1
+建筑设计,Architectural Design,7,Interactive Visual Design,2
+艺术展览设计,Art and Exhibition Design,7,Interactive Visual Design,3
+产品设计Brainstorming,Product Design,7,Interactive Visual Design,4
+图文广告编辑,Interactive Graphic Advertisement Editing,7,Interactive Visual Design,5
+数学几何题,Geometric Problem Test,8,Multimodal Exam,1
+物理电路图,Circuit Problem Test,8,Multimodal Exam,2
+思维导图,Mind Map Generation,9,Graph Generation,1
+人物关系图,Figure Relationship Diagram Generation,9,Graph Generation,2
+多角度新闻报道生成,Multi-view News Generation,10,Event Reasoning and Deductive Simulation,1
+动态体育赛事分析,Dynamic Sports Event Analysis,10,Event Reasoning and Deductive Simulation,2
+互动式历史事件演绎,Interactive Historical Interpretation,10,Event Reasoning and Deductive Simulation,3
+未解之谜的图文探索,Unsolved Mysteries Exploration,10,Event Reasoning and Deductive Simulation,4
+梦境解析与重建,Dream Analysis and Scene Reconstruction,10,Event Reasoning and Deductive Simulation,5
+近似生物推理,Multimodal Biological Reasoning,11,2D Image Reasoning,1
+场景推理,Multimodal Landscape Reasoning,11,2D Image Reasoning,2
+类比推理（Visual Analogy）,Multimodal Analogy Reasoning,11,2D Image Reasoning,3
+拼图,Interactive Jigsaw Puzzle,11,2D Image Reasoning,4
+未见视角猜想,Interactive Novel View Synthesis,12,Image-based 3D Reasoning,1
+图文摘要,Interactive Multi-concept Image Composition,13,Multimodal Information Summary,1
+影视推荐,Interactive Film and Television Recommendation,14,Multimodal Information Recommendation,1
+商品推荐,Interactive Goods Recommendation,14,Multimodal Information Recommendation,2
+美食推荐,Interactive Food Recommendation,14,Multimodal Information Recommendation,3
+创业场景Brainstorming,Business Scenarios Brainstorming,15,Multimodal Brainstorming,1
+科研Brainstorming,Academic Scenarios Brainstorming,15,Multimodal Brainstorming,2
+动作预测,Multimodal Action Anticipation,16,Multimodal Time Series Forecasting,1
+交通预测,Visual Traffic Forecasting,16,Multimodal Time Series Forecasting,2
+遥感信息绘制,Interactive Remote Sensing Image Rendering,17,Geographical Tasks,1
+全景绘制,Interactive Street View Image Rendering,17,Geographical Tasks,2
+城市规划与发展模拟,Urban Planning and Development Simulation,17,Geographical Tasks,3
+社交媒体内容生成,Plog and Social Media Content Generation,18,Social Media Tasks,1
+表情包聊天,Chat with Memes,18,Social Media Tasks,2
+虚拟试穿,Interactive Virtual Try-on,19,Fashion Tasks,1
+穿搭建议,Multimodal Dressing Suggestion,19,Fashion Tasks,2
+时尚趋势预测,Fashion Trend Forecasting,19,Fashion Tasks,3
+步骤预测,Multimodal Recipe Generation,20,Cooking Tasks,1
+烹饪助手,Multimodal Cooking Assistant,20,Cooking Tasks,2
+交互式教程生成,Interactive Tutorial Generation,21,Educational Tasks,1
+交互式学科教学,Interactive Science Popularization,21,Educational Tasks,2
+健康与健身咨询,Fitness and Health Consulting,22,Healthcare Tasks,1
+具身智能,Autonomous Driving and In-door Navigation,23,Embodied-AI Tasks,1

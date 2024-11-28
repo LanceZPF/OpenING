@@ -1,0 +1,37 @@
+{
+    "meta_task_id": "3",
+    "meta_task_name": "Multimodal Content Completion",
+    "subtask_id": "1",
+    "subtask_name": "Storybook Completion",
+    "data_id": "96",
+    "conversations": [
+        {
+            "input": [
+                {
+                    "image": "./images/Storybook Completion/96-i-1.jpg",
+                    "text": "Please complete the subsequent parts of the story with images and text based on the given opening parts. <BEGIN> One evening, Curious George was playing outside near his house. The sky was dotted with stars, and everything was peaceful. <image>"
+                },
+                {
+                    "image": "./images/Storybook Completion/96-i-2.jpg",
+                    "text": "Suddenly, George heard a soft thumping sound coming from the yellow birdhouse hanging on the tree. Curious as always, he decided to investigate. <image>"
+                },
+                {
+                    "image": "./images/Storybook Completion/96-i-3.jpg",
+                    "text": "George peeked into the birdhouse and saw something moving inside. He couldn't tell what it was, so he reached in with his little hand. <image>"
+                }
+            ]
+        },
+        {
+            "output": [
+                {
+                    "text": "George's hand gently touched something soft and feathery. He carefully pulled it out and saw a little lost bird. The bird chirped happily, feeling safe now.",
+                    "image": "0301096-o-0.jpg"
+                },
+                {
+                    "text": "Curious George decided to help the bird find its way back home. He held the bird gently and looked around, wondering where its nest might be. Together, they embarked on a tiny adventure under the starry night.",
+                    "image": "0301096-o-1.jpg"
+                }
+            ]
+        }
+    ]
+}
