@@ -1,6 +1,6 @@
 # OpenING
 
-[**🚀 Quickstart**](#🚀-quick-start) | [**🌐 Homepage**](https://opening-benchmark.github.io/) | [**🏆 Leaderboard**](https://opening-benchmark.github.io/#leaderboard) | [**🤗 IntJudge**](https://huggingface.co/IntJudge/IntJudge) | [**📖 OpenING arXiv**](https://arxiv.org/pdf/2411.18499) | [**🖊️ Citation**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#%EF%B8%8F-citation) 
+[**🚀 Quickstart**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#-quick-start) | [**🌐 Homepage**](https://opening-benchmark.github.io/) | [**🏆 Leaderboard**](https://opening-benchmark.github.io/#leaderboard) | [**🤗 IntJudge**](https://huggingface.co/IntJudge/IntJudge) | [**📖 OpenING arXiv**](https://arxiv.org/pdf/2411.18499) | [**🖊️ Citation**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#%EF%B8%8F-citation) 
 
 This repository is the official implementation of [GATE OpenING](https://arxiv.org/pdf/2411.18499).
 
@@ -29,8 +29,7 @@ Please refer to [this](https://opening-benchmark.github.io/#leaderboard) to view
 
 ## 🚀 Quick Start
 
-- To be done.
-<!-- Please refer to [this](Quickstart.md) to quick start. -->
+Please refer to [this](Quickstart.md) to quick start.
 
 ## 🌟 Disclaimers
 The guidelines for the annotators emphasized strict compliance with copyright and licensing rules from the initial data source, specifically avoiding materials from websites that forbid copying and redistribution. 
