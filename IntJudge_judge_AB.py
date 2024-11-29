@@ -18,7 +18,7 @@ from qwen_vl_utils import process_vision_info
 # Please define these two paths first
 # The ckpt_path is the path of the downloaded IntJudge model, and the preprocessor_path is the path of the preprocessor of Qwen2-VL-7B-Instruct
 ckpt_path = "~/judges/IntJudge"
-preprocessor_path = "~/.cache/Qwen2-VL-7B-Instruct"
+# preprocessor_path = "~/.cache/Qwen2-VL-7B-Instruct"
 
 # model = Qwen2VLForConditionalGeneration.from_pretrained(
 #     ckpt_path, torch_dtype="auto", device_map="auto"
@@ -31,7 +31,7 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(
     device_map="auto",
 )
 # default processer
-processor = AutoProcessor.from_pretrained(preprocessor_path)
+processor = AutoProcessor.from_pretrained(ckpt_path)
 
 ROOT_DIR = './'
 # RESULT_DIR is the path of the directory where the results of all interleaved generation results are saved, for each model named "MODEL_NAME" the output dir should be "MODEL_NAME_output"
