@@ -17,7 +17,7 @@ from qwen_vl_utils import process_vision_info
 
 # Please define these two paths first
 # The ckpt_path is the path of the downloaded IntJudge model, and the preprocessor_path is the path of the preprocessor of Qwen2-VL-7B-Instruct
-ckpt_path = "~/Qwen2-VL/models/intjudge-8b"
+ckpt_path = "~/judges/IntJudge"
 preprocessor_path = "~/.cache/Qwen2-VL-7B-Instruct"
 
 # model = Qwen2VLForConditionalGeneration.from_pretrained(
