@@ -12,6 +12,7 @@ This repository is the official implementation of [GATE OpenING](https://arxiv.o
 ## 💡 News
 
 - `2025/02/27`: The beta version of OpenING data can be accessed via [Google Drive](https://drive.google.com/file/d/1Mp0VRBVjxJyX4pn5h8pD7NDlaS829ghr/view?usp=sharing). If you have any questions, please [contact us](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#contact).
+- `2025/02/26`: Our paper is accepted by CVPR 2025. Thanks to all contributors.
 - `2024/11/29`: Our judge model [IntJudge](https://huggingface.co/IntJudge/IntJudge) is released!
 - `2024/11/28`: We are releasing the evaluation code here.
 - `2024/11/27`: The technical report of [GATE OpenING](https://arxiv.org/abs/2411.18499) is released! And check our [project page](https://opening-benchmark.github.io)!
