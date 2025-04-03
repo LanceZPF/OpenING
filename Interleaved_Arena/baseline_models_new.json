@@ -1,0 +1,17 @@
+[
+    {"0": {"name": "Show-o", "github": "https://github.com/showlab/Show-o"}},
+    {"1": {"name": "SEED-X", "github": "https://github.com/AILab-CVC/SEED-X"}},
+    {"2": {"name": "NExT-GPT", "github": "https://github.com/NExT-GPT/NExT-GPT"}},
+    {"3": {"name": "gill", "github": "https://github.com/kohjingyu/gill"}},
+    {"4": {"name": "MiniGPT-5", "github": "https://github.com/eric-ai-lab/MiniGPT-5"}},
+    {"5": {"name": "GPT-4o+DALL-E3", "github": "https://github.com/Agora-Lab-AI/Dalle3"}},
+    {"6": {"name": "Emu2", "github": "https://github.com/baaivision/Emu/tree/main/Emu2"}},
+    {"7": {"name": "Gemini1.5+Flux", "github": "https://github.com/black-forest-labs/flux"}},
+    {"8": {"name": "anole", "github": "https://github.com/GAIR-NLP/anole"}},
+    {"9": {"name": "SEED-LLaMA", "github": "https://github.com/AILab-CVC/SEED"}},
+    {"10": {"name": "Human", "github": "https://github.com/OpenGVLab"}},
+    {"11": {"name": "MiniGPT-5mmd", "github": "https://github.com/eric-ai-lab/MiniGPT-5"}},
+    {"12": {"name": "VILA-U", "github": "https://github.com/mit-han-lab/vila-u"}},
+    {"13": {"name": "Emu3", "github": "https://github.com/baaivision/Emu/tree/main/Emu3"}},
+    {"14": {"name": "MiniGPT-5opening", "github": "https://github.com/LanceZPF/OpenING"}}
+]
