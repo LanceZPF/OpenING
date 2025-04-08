@@ -2,17 +2,17 @@
 
 [**🚀 Quickstart**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#-quick-start) | [**🌐 Homepage**](https://opening-benchmark.github.io/) | [**🏆 Leaderboard**](https://opening-benchmark.github.io/#leaderboard) | [**🤗 IntJudge**](https://huggingface.co/IntJudge/IntJudge) | [**📖 OpenING arXiv**](https://arxiv.org/pdf/2411.18499) | [**🖊️ Citation**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#%EF%B8%8F-citation) 
 
-This repository is the official implementation of [OpenING](https://arxiv.org/pdf/2411.18499).
+This repository is the official implementation of [OpenING](https://arxiv.org/pdf/2411.18499) (CVPR 2025 Oral).
 
 > [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://arxiv.org/abs/2411.18499)  
-> Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Kaipeng Zhang†  
+> Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Kaipeng Zhang†
 > <sup>\*</sup> Equal Contribution  
 > <sup>†</sup> Corresponding Author: zhangkaipeng@pjlab.org.cn
 
 ## 💡 News
 
 - `2025/02/27`: The beta version of OpenING data can be accessed via [Google Drive](https://drive.google.com/file/d/1Mp0VRBVjxJyX4pn5h8pD7NDlaS829ghr/view?usp=sharing). If you have any questions, please [contact us](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#contact).
-- `2025/02/26`: Our paper is accepted by CVPR 2025. Thanks to all contributors.
+- `2025/02/26`: Our paper is accepted by CVPR 2025, and selected as Oral. Thanks to all contributors.
 - `2024/11/29`: Our judge model [IntJudge](https://huggingface.co/IntJudge/IntJudge) is released!
 - `2024/11/28`: We are releasing the evaluation code here.
 - `2024/11/27`: The technical report of [OpenING](https://arxiv.org/abs/2411.18499) is released! And check our [project page](https://opening-benchmark.github.io)!
