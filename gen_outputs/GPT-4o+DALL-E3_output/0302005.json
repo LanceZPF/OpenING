@@ -1,0 +1,41 @@
+{
+    "meta_task_id": "3",
+    "meta_task_name": "Multimodal Content Completion",
+    "subtask_id": "2",
+    "subtask_name": "Multimodal Report Completion",
+    "data_id": "5",
+    "conversations": [
+        {
+            "input": [
+                {
+                    "image": "./images/Multimodal Report Completion/5-i-1.jpg",
+                    "text": "<BEGIN> Please complete the text about selecting brooches with images and words:\n\nSmall Budget, Great Quality Gifts: Brooch Gift Box Collection\n\nEach brooch possesses a unique charm and is rich in texture. Whether you are pairing it with everyday attire or attending an important occasion, it can instantly make you stand out! Come and choose the one that belongs to you! <image>"
+                }
+            ]
+        },
+        {
+            "output": [
+                {
+                    "text": "### Small Budget, Great Quality Gifts: Brooch Gift Box Collection\n\nTransform your look with our exquisite brooch collection, perfect for both casual and elegant occasions. Each piece is crafted with precision to offer a touch of elegance and sophistication. Choose the one that resonates with your style!\n\n1. Floral Delicacy Brooch: A touch of nature’s beauty, with delicate petals and pearls.",
+                    "image": "0302005-o-0.jpg"
+                },
+                {
+                    "text": "2. Elegant Butterfly Brooch: Capture the grace of a butterfly with this intricate design.",
+                    "image": "0302005-o-1.jpg"
+                },
+                {
+                    "text": "3. Nature-Inspired Wings Brooch: Embrace vibrant hues and stunning textures.",
+                    "image": "0302005-o-2.jpg"
+                },
+                {
+                    "text": "4. Chic Glamour Brooch: A beautifully crafted piece with a contemporary edge.",
+                    "image": "0302005-o-3.jpg"
+                },
+                {
+                    "text": "Stand out and make every moment special with these charming brooches that add a perfect accent to any outfit.",
+                    "image": "0302005-o-4.jpg"
+                }
+            ]
+        }
+    ]
+}

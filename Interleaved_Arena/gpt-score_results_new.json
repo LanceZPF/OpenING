@@ -1,0 +1,76 @@
+[
+    {
+        "instance_id": "0302005",
+        "model": {
+            "name": "GPT-4o+DALL-E3"
+        },
+        "score": {
+            "Correctness": {
+                "Score": 10,
+                "Justification": "The images and text accurately describe and depict a collection of brooches, matching the requested theme of a gift box collection. Each description corresponds to the shown image."
+            },
+            "Image-Text Coherency": {
+                "Score": 10,
+                "Justification": "The images perfectly complement the textual descriptions, each brooch's unique style and design being highlighted alongside the visual."
+            },
+            "Multi-step Consistency": {
+                "Score": 10,
+                "Justification": "The style and presentation are consistent across all entries, presenting a cohesive collection of brooches."
+            },
+            "Content Quality": {
+                "Score": 9,
+                "Justification": "The language is clear and descriptive, while the images are aesthetically pleasing and professionally captured. A slight increase in text detail could improve it further."
+            },
+            "Human Preference Alignment": {
+                "Score": 10,
+                "Justification": "The output respects aesthetic standards and provides positive and engaging content without any undesirable elements."
+            },
+            "Completeness": {
+                "Score": 10,
+                "Justification": "The content fulfills the input by providing a comprehensive overview of the brooch collection with detailed descriptions and images."
+            },
+            "Content Richness": {
+                "Score": 9,
+                "Justification": "The images are diverse in style, color, and theme. Further enriching the text with additional detail can enhance richness."
+            }
+        }
+    },
+    {
+        "instance_id": "0301096",
+        "model": {
+            "name": "GPT-4o+DALL-E3"
+        },
+        "score": {
+            "scores": {
+                "Correctness": {
+                    "Score": 9,
+                    "Justification": "The continuation of the story is logical and aligns with the initial scenario provided. The text fits well with Curious George's character, and the images depict the described scenes accurately."
+                },
+                "Image-Text Coherency": {
+                    "Score": 9,
+                    "Justification": "The images match the descriptions in the text very well, illustrating Curious George with the bird under a starry sky, maintaining coherence throughout."
+                },
+                "Multi-step Consistency": {
+                    "Score": 8,
+                    "Justification": "The style and theme are consistent across both text and images. The narrative follows a continuous, coherent path from finding the bird to helping it."
+                },
+                "Content Quality": {
+                    "Score": 9,
+                    "Justification": "Images are clear, aesthetically pleasing, and the text is well-written with correct grammar. The content appeals to a young audience effectively."
+                },
+                "Human Preference Alignment": {
+                    "Score": 9,
+                    "Justification": "The content is wholesome, friendly, and suitable for children. Aesthetically, the images are cute and in alignment with children's book illustrations."
+                },
+                "Completeness": {
+                    "Score": 9,
+                    "Justification": "The continuation provides a complete segment of the story, addressing the immediate outcome of the discovered bird and suggesting an adventure."
+                },
+                "Content Richness": {
+                    "Score": 8,
+                    "Justification": "The images and text are rich in detail and imagination, though a bit more variety in scenery might enrich the experience further."
+                }
+            }
+        }
+    }
+]
