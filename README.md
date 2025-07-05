@@ -1,10 +1,10 @@
 # OpenING
 
-[**🚀 Quickstart**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#-quick-start) | [**🌐 Homepage**](https://opening-benchmark.github.io/) | [**🏆 Leaderboard**](https://opening-benchmark.github.io/#leaderboard) | [**🤗 IntJudge**](https://huggingface.co/IntJudge/IntJudge) | [**📖 OpenING arXiv**](https://arxiv.org/pdf/2411.18499) | [**🖊️ Citation**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#%EF%B8%8F-citation) 
+[**🚀 Quickstart**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#-quick-start) | [**🌐 Homepage**](https://opening-benchmark.github.io/) | [**🏆 Leaderboard**](https://opening-benchmark.github.io/#leaderboard) | [**🤗 IntJudge**](https://huggingface.co/IntJudge/IntJudge) | [**📖 Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation_CVPR_2025_paper.html) | [**🖊️ Citation**](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#%EF%B8%8F-citation) 
 
-This repository is the official implementation of [OpenING](https://arxiv.org/pdf/2411.18499) (CVPR 2025 Oral).
+This repository is the official implementation of [OpenING](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation_CVPR_2025_paper.html) (CVPR 2025 Oral).
 
-> [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://arxiv.org/abs/2411.18499)  
+> [OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_OpenING_A_Comprehensive_Benchmark_for_Judging_Open-ended_Interleaved_Image-Text_Generation_CVPR_2025_paper.html)  
 > Pengfei Zhou*, Xiaopeng Peng*, Jiajun Song, Chuanhao Li, Zhaopan Xu, Yue Yang, Ziyao Guo, Hao Zhang, Yuqi Lin, Yefei He, Lirui Zhao, Shuo Liu, Tianhua Li, Yuxuan Xie, Xiaojun Chang, Yu Qiao, Wenqi Shao, Kaipeng Zhang†
 > <sup>\*</sup> Equal Contribution  
 > <sup>†</sup> Corresponding Author: zhangkaipeng@pjlab.org.cn
