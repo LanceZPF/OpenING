@@ -11,6 +11,7 @@ This repository is the official implementation of [OpenING](https://arxiv.org/pd
 
 ## 💡 News
 
+- `2025/07/05`: The outputs of different MLLM generators on OpenING can be accessed via [Hugging Face](https://opening-benchmark.github.io/). We are committed to making it easier and faster for users of our benchmark to conduct one-click tests. Stay tuned!
 - `2025/02/27`: The beta version of OpenING data can be accessed via [Google Drive](https://drive.google.com/file/d/1Mp0VRBVjxJyX4pn5h8pD7NDlaS829ghr/view?usp=sharing). If you have any questions, please [contact us](https://github.com/LanceZPF/OpenING?tab=readme-ov-file#contact).
 - `2025/02/26`: Our paper is accepted by CVPR 2025, and selected as Oral. Thanks to all contributors.
 - `2024/11/29`: Our judge model [IntJudge](https://huggingface.co/IntJudge/IntJudge) is released!

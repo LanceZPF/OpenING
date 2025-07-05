@@ -1,0 +1,49 @@
+{
+    "meta_task_id": "3",
+    "meta_task_name": "Multimodal Content Completion",
+    "subtask_id": "2",
+    "subtask_name": "Multimodal Report Completion",
+    "data_id": "5",
+    "conversations": [
+        {
+            "input": [
+                {
+                    "image": "./images/Multimodal Report Completion/5-i-1.jpg",
+                    "text": "<BEGIN> Please complete the text about selecting brooches with images and words:\n\nSmall Budget, Great Quality Gifts: Brooch Gift Box Collection\n\nEach brooch possesses a unique charm and is rich in texture. Whether you are pairing it with everyday attire or attending an important occasion, it can instantly make you stand out! Come and choose the one that belongs to you! <image>"
+                }
+            ]
+        },
+        {
+            "output": [
+                {
+                    "text": "1. Choose the perfect brooch: Select a piece that complements your style and adds a touch of elegance to your outfit.",
+                    "image": "0302005-o-0.jpg"
+                },
+                {
+                    "text": "2. Browse our collection: Explore our wide range of brooches, from delicate butterflies to stunning flowers, to find the one that catches your eye.",
+                    "image": "0302005-o-1.jpg"
+                },
+                {
+                    "text": "3. Check the size: Measure the size of the brooch to ensure it fits your outfit.",
+                    "image": "0302005-o-2.jpg"
+                },
+                {
+                    "text": "4. Choose a gift box: Present your brooch in a beautifully crafted box that showcases its beauty and adds a touch of luxury.",
+                    "image": "0302005-o-3.jpg"
+                },
+                {
+                    "text": "5. Personalize your gift: Add a special message or a name to make it extra special.",
+                    "image": "0302005-o-4.jpg"
+                },
+                {
+                    "text": "6. Shop now: Place your order today and enjoy our great prices and fast delivery.",
+                    "image": "0302005-o-5.jpg"
+                },
+                {
+                    "text": "7. Share your purchase: Share your purchase on social media and let your friends and family know about our amazing brooches.",
+                    "image": "0302005-o-6.jpg"
+                }
+            ]
+        }
+    ]
+}

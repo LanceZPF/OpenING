@@ -1,0 +1,24 @@
+[
+    {
+        "data_id": "0301096",
+        "model_A": {
+            "id": "5",
+            "name": "GPT-4o+DALL-E3"
+        },
+        "model_B": {
+            "id": "0",
+            "name": "Show-o"
+        }
+    },
+    {
+        "data_id": "0302005",
+        "model_A": {
+            "id": "9",
+            "name": "SEED-LLaMA"
+        },
+        "model_B": {
+            "id": "5",
+            "name": "GPT-4o+DALL-E3"
+        }
+    }
+]
